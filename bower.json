@@ -1,0 +1,30 @@
+{
+  "name": "bitcore-mnemonic",
+  "main": "./bitcore-mnemonic-square.min.js",
+  "version": "1.1.3",
+  "homepage": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/bitcore-mnemonic-square",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "BIP39 - Mnemonics implemented for Bitcore.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "square",
+    "bitcore",
+    "satoshi",
+    "mnemonic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
